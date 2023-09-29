@@ -3,16 +3,16 @@ import React from 'react'
 const Timeline = () => {
   return (
     <div>
-    <div class="bg-gray-500 inset-0">
+    <div class="bg-gray-800 inset-0">
     
-      <div class="m-5 p-5">
+      <div class="mx-5 px-5">
         
         <div class="text-white grid grid-cols-4">
           <div class="relative border-l-4 border-white left-1/2">
             <span class="absolute h-9 w-9 top-5 -left-5 flex justify-center items-center rounded-full bg-white text-black text-2xl font-bold">1</span>
           </div>
           <div class="col-span-2 py-5">
-            <h5 class="text-2xl">Junior Developer - Yashoda Hospitals</h5>
+            <h5 class="text-2xl">Full Stack Django Developer Intern - QuLabs Software India</h5>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
           </div>
         </div>

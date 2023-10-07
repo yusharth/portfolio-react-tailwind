@@ -13,7 +13,7 @@ export default function Tweets() {
             Learn how to grow your business with our expert advice.
           </p>
         </div>
-        <div className="flex h-11/12 space-y-6 sm:mt-12 sm:space-y-8 md:mt-16 lg:mt-20">
+        <div className="flex h-11/12 space-y-6 sm:mt-12 sm:space-y-8 md:mt-16 lg:mt-20 gap-4">
           <Tweet id="1705095289181450293" className="w-1/3 m-auto p-4 border border-gray-200 rounded-lg shadow-md" />
           <Tweet id="1707445928649753014" className="w-1/3 m-auto p-4 border border-gray-200 rounded-lg shadow-md" />
           <Tweet id="1706723113357262952" className="w-1/3 m-auto p-4 border border-gray-200 rounded-lg shadow-md" />
